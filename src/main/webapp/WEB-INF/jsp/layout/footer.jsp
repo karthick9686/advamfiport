@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-    Footer
+    Footer New
 </body>
 </html>
